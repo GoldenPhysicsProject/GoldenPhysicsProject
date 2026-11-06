@@ -4,7 +4,7 @@
 
 ## The idea
 
-Shadow holography. Riemann's functional equation, $s \mapsto 1-s$, and the shadow symmetry of celestial holography, $\Delta \mapsto 2-\Delta$, are the same involution in two different fields, under $\Delta = 2s$. That turns the Riemann Hypothesis into a question about reflection positivity. My work is finding out whether the zeros can be forced onto the line, and being exact about what is proved and what is not.
+Shadow holography. Riemann's functional equation, s ↦ 1−s, and the shadow symmetry of celestial holography, Δ ↦ 2−Δ, are the same involution in two different fields, under Δ = 2s. That turns the Riemann Hypothesis into a question about reflection positivity. My work is finding out whether the zeros can be forced onto the line, and being exact about what is proved and what is not.
 
 ## The team
 

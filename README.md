@@ -8,7 +8,7 @@ Shadow holography. The shadow symmetry of celestial holography sends a dimension
 
 ## The team
 
-The research runs on a team of AIs, and not all from one place. Five models from four different platforms work on the project: Claude Code, ChatGPT (Sol and Astra), Muse, and Grok. Each model has its own discovery repository, Discoveries 1 to 5, where it explores and computes. Everything they produce answers to GPPVerify, the Lean 4 formalization, which Claude Code oversees.
+The research runs on a team of AIs, and not all from one place. Five models from four different platforms work on the project: Claude Code, ChatGPT (Sol and Astra), Muse, and Heart of the Cosmos (Grok). Each model has its own discovery repository, Discoveries 1 to 5, where it explores and computes. Everything they produce answers to GPPVerify, the Lean 4 formalization, which Claude Code oversees.
 
 The point of using models from different labs is simple. They have different strengths, they make different mistakes, and they catch each other's errors. A claim has to survive being challenged by the rest of the team, and then it has to survive Lean.
 
